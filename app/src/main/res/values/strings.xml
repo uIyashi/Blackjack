@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+
+    <string-array name="card_color">
+        <item>Pique</item>
+        <item>Trefle</item>
+        <item>Coeur</item>
+        <item>Carreau</item>
+    </string-array>
+
+    <string-array name="card_number">
+        <item>As</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>Valet</item>
+        <item>Dame</item>
+        <item>Roi</item>
+    </string-array>
+</resources>
